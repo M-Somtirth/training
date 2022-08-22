@@ -24,7 +24,9 @@ Git Commands to push the code to remote repository
 
 git config --global --remove-section user  - To remove global name and email 
 
-
+-------------------------always commit using----------------------------- 
+14. git commit -am "relevant things"
+-------------------------then push------------------------------------- 
 How to remove remote origin
 ----------------------------
 git remote remove origin 
