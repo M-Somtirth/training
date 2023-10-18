@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T12:33:25.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Lz7mGhadjsp6DtrasDGu" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T09:34:14.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="laPvdb2mJxlkHjtVJY8h" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1059" dy="671" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,10 +36,10 @@
         <mxCell id="dll8_rj09az58H-58eIl-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dll8_rj09az58H-58eIl-70" target="dll8_rj09az58H-58eIl-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dll8_rj09az58H-58eIl-70" value="BlIndexing will be initiated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dll8_rj09az58H-58eIl-70" value="BLIndexing will be initiated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="468" y="427" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dll8_rj09az58H-58eIl-73" value="BlIndexing&lt;br&gt;Reader(DB)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dll8_rj09az58H-58eIl-73" value="BLIndexing&lt;br&gt;Reader(DB)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="629" y="374" width="120" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dll8_rj09az58H-58eIl-74" value="BLIndexing&lt;br&gt;Writer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -192,10 +192,10 @@
           <mxGeometry x="455" y="203.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dll8_rj09az58H-58eIl-144" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="395" y="209" width="33" height="26" as="geometry" />
+          <mxGeometry x="330" y="278" width="33" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dll8_rj09az58H-58eIl-145" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="328" y="282" width="38" height="26" as="geometry" />
+          <mxGeometry x="392.5" y="213" width="38" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dll8_rj09az58H-58eIl-146" value="By default priority=0 and dataType=product" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430.5" y="115" width="60" height="30" as="geometry" />
