@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T11:07:03.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="upEgNfQgYRrExVE_lIzM" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T11:24:04.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="cNSYl7W7Hx6v4XpAi07N" version="22.1.4" type="github">
   <diagram name="Page-1" id="JAZEwTTPHWBEdXGYPn7u">
-    <mxGraphModel dx="794" dy="1330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1059" dy="1498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,7 +128,7 @@
           <mxGeometry x="330" y="480" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rSm9kVEbdHUkBL9kP83v-36" value="Doc3" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="80" height="100" as="geometry" />
+          <mxGeometry x="440" y="480" width="86" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rSm9kVEbdHUkBL9kP83v-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=11;endSize=7.67;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -364,7 +364,7 @@
         <mxCell id="rSm9kVEbdHUkBL9kP83v-121" value="&lt;b&gt;&lt;font color=&quot;#ff120a&quot;&gt;Doc1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="1440" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rSm9kVEbdHUkBL9kP83v-122" value="&lt;b&gt;&lt;font color=&quot;#ff3912&quot;&gt;Doc2&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-122" value="&lt;b&gt;&lt;font color=&quot;#ff3912&quot;&gt;Doc3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="1440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rSm9kVEbdHUkBL9kP83v-123" value="." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=15;fontSize=39;" vertex="1" parent="1">
@@ -482,6 +482,33 @@
         </mxCell>
         <mxCell id="rSm9kVEbdHUkBL9kP83v-166" value="GshardNo." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="664" y="838" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-168" value="PrimaryID=60" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-171" value="As we can see in the query(fq) ID-60 is not mentioned so the Gshard-60 will not be considered in search-space" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="1311" width="215" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-172" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#046904&quot;&gt;Results= Doc2,Doc3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1721" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-174" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#046904&quot;&gt;Results= Doc1,Doc2,Doc3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="256" y="-252" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-175" value="PrimaryID=8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="340" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-176" value="PrimaryID=108" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="452" y="545" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-177" value="On the basis of PrimaryID the routing logic is developed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="442" y="686" width="183" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-178" value="Search Space= ghard1,ghard2,ghard3,ghard4, ghard5,ghard6,ghard7ghard8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="426" y="-636" width="342" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="rSm9kVEbdHUkBL9kP83v-179" value="Search-Space= gshard8,gshard21,gshard108" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="575" y="1273" width="217" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
