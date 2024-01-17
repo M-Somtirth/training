@@ -1,9 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T12:11:13.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.20" etag="qcfk6DtH5ANADnI8HzCJ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T12:51:39.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XR4iCprwnvRepV7u_rLL" version="22.1.20" type="github">
   <diagram name="Page-1" id="0Vp9JZL3dCJwTRTab2R-">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-2" target="Y4l5M8XXC8auukL7Nkf5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-2" value="Changes Done (Create War file)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-4" target="Y4l5M8XXC8auukL7Nkf5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-4" value="Upload on RnD server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-6" target="Y4l5M8XXC8auukL7Nkf5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-6" value="Want to run product Indexing?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-11" target="Y4l5M8XXC8auukL7Nkf5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-11" target="Y4l5M8XXC8auukL7Nkf5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-11" target="Y4l5M8XXC8auukL7Nkf5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-11" target="Y4l5M8XXC8auukL7Nkf5-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-11" value="Want to run the CSV creation job?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-12" value="Bring some processed recent csv&#39;s from indexing server to RnD server (Solr temp Folder)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-13" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-14" value="Make some code level changes to omit the tracker user&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-15" value="Ask DBA team to make changes in the dummy tracker" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-11" target="Y4l5M8XXC8auukL7Nkf5-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="370" as="sourcePoint" />
+            <mxPoint x="600" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y4l5M8XXC8auukL7Nkf5-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y4l5M8XXC8auukL7Nkf5-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y4l5M8XXC8auukL7Nkf5-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-20" value="Make some code level changes to omit the tracker user&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-21" value="Ask DBA team to make changes in the dummy tracker" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="Y4l5M8XXC8auukL7Nkf5-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="161" />
+              <mxPoint x="566" y="161" />
+              <mxPoint x="566" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-23" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="128" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-24" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="429" y="240" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-25" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="330" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="106" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-27" value="BL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="148" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="720" y="304" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-29" value="Previously followed Process for testing of the Indexing code changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="31" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-31" target="Y4l5M8XXC8auukL7Nkf5-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-31" value="Changes Done (Create War file)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82" y="933" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-33" target="Y4l5M8XXC8auukL7Nkf5-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-33" value="Upload on RnD server" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247" y="933" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="1103" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y4l5M8XXC8auukL7Nkf5-35" target="Y4l5M8XXC8auukL7Nkf5-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-35" value="Want to run product Indexing?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="903" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-41" value="Send the Product LogIds you want to Index for testing product-indexing&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Comma/Hyphen Seperated format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="416" y="1104" width="142" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-52" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="548" y="931" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-53" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="447" y="1043" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="738" y="909" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-56" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1084" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-57" value="Testing of the Indexing code changes now&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252" y="836" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-58" value="Product&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="351" width="63" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-59" value="BL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="754" y="956" width="33" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-60" value="Send the BL LogIds you want to Index for testing bl-indexing&lt;br&gt;Comma/Hyphen Seperated format" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="615" y="920" width="120" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-62" value="Product" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="576" y="1131" width="59" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4l5M8XXC8auukL7Nkf5-65" value="CSVs will be generated on the go and will be indexed in the mentioned collection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="1133" width="154" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
